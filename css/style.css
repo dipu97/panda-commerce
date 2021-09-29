@@ -2,3 +2,16 @@
     width: 250px;
     height: 150px;
 }
+
+.bg-color {
+    background-color: bisque;
+}
+
+.btn-buy-now {
+    color: wheat;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    text-decoration: none;
+}
